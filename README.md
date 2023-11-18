@@ -2,6 +2,7 @@
 
 This is the Computer Science project by Anubhuti Mittal and Harsh Chaudhary of class 12th A, Presidium School.
 This is a timetable generator application for our school in order to assist our teachers with generation of their own as well as students' schedules at the beginning of the year.
+Note-View the backyard folder in order to assess our progress
 
 ## Installation
 
